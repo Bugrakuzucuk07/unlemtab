@@ -142,4 +142,9 @@ if __name__ == "__main__":
 #5.deneme
 #6.deneme
 #son deneme
+<<<<<<< HEAD
 #denemee
+=======
+#oguzun pc den gelen değişiklik
+>>>>>>> 3269572e7665f05eaa31b787be95a3fc89a76c42
+#vscode
