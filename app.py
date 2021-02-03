@@ -149,3 +149,6 @@ if __name__ == "__main__":
 >>>>>>> 3269572e7665f05eaa31b787be95a3fc89a76c42
 #vscode
 dfcvtg
+asdsafdg
+deneme deneme deneme ses 1-2
+ghjkhjıkkjkj
